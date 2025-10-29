@@ -8,33 +8,33 @@ JARVIS understands natural language, manages your tasks, remembers information a
 
 ## ✨ Features
 
-### 🧠 Natural Language Understanding**
+### 🧠 Natural Language Understanding
 
 * Speak naturally: “Remind me to buy groceries at 3 PM.”
 * No need for strict commands — JARVIS understands intent.
-* Powered by **NLP.js**, completely offline.
+* Powered by NLP.js, completely offline.
 
-### 📝 **Task Management**
+### 📝 Task Management
 
 * Add tasks with priorities (`high`, `medium`, `low`).
 * Set due times or reminders.
 * Mark tasks complete or delete them.
 * All tasks persist across sessions.
 
-### 🎯 **Personal Memory**
+### 🎯 Personal Memory
 
 * Teach JARVIS facts about yourself.
 * Stores preferences, habits, and routines.
 * Recalls details when relevant.
 * All memory stored locally in JSON.
 
-### 🔔 **Smart Reminders**
+### 🔔 Smart Reminders
 
 * Schedule notifications for specific times.
 * Console and system-level alerts.
 * Automatically handles overdue tasks.
 
-### 🔒 **Privacy First**
+### 🔒 Privacy First
 
 * 100% local processing — no cloud APIs.
 * Your data never leaves your device.
@@ -43,15 +43,15 @@ JARVIS understands natural language, manages your tasks, remembers information a
 
 ---
 
-## **🚀 Quick Start**
+## 🚀 Quick Start
 
-### **Prerequisites**
+### Prerequisites
 
 * Node.js v16+ (v22 recommended)
 * macOS, Linux, or Windows
 * Terminal or command-line access
 
-### **Installation**
+### Installation
 
 ```bash
 # Clone the repository
@@ -77,7 +77,7 @@ JARVIS: Task added: "buy groceries" (Priority: medium)
 
 You: what do I need to do today?
 JARVIS: Your pending tasks:
-1. ○ 🟡 buy groceries [Due: 3pm]
+1. ○ buy groceries [Due: 3pm] 🟡
 
 You: mark 1 as done
 JARVIS: Completed: "buy groceries" ✓
@@ -139,17 +139,6 @@ jarvis-assistant/
 
 ---
 
-## **📚 Development Phases**
-
-| Phase                                 | Focus                                           | Status |
-| ------------------------------------- | ----------------------------------------------- | ------ |
-| **1. Minimal Text Assistant**         | Core terminal loop, commands, modular structure | ✅      |
-| **2. Memory & Personalization**       | JSON storage, `remember`/`recall`               | ✅      |
-| **3. Task Management & Scheduler**    | CRUD, priorities, reminders                     | ✅      |
-| **4. Natural Language Understanding** | NLP engine, entity extraction, training         | ✅      |
-
----
-
 ## **🛠️ Tech Stack**
 
 | Technology         | Purpose                  |
@@ -185,8 +174,6 @@ jarvis-assistant/
 * [ ] Local LLM integration (Ollama/Llama)
 * [ ] Email and productivity tools
 
-Full roadmap: [ROADMAP.md](ROADMAP.md)
-
 ---
 
 ## **🤝 Contributing**
@@ -206,25 +193,11 @@ Full roadmap: [ROADMAP.md](ROADMAP.md)
 
 ---
 
-## **📄 License**
-
-Licensed under the **MIT License**.
-See the [LICENSE](LICENSE) file for full details.
-
----
-
 ## **🙏 Acknowledgments**
 
 * Built using [NLP.js](https://github.com/axa-group/nlp.js) by AXA Group
 * Inspired by Tony Stark’s J.A.R.V.I.S.
 * Created as a personal learning project to explore **AI assistants, NLP, and software design**.
-
----
-
-## **📞 Support**
-
-* **Issues:** [GitHub Issues](https://github.com/yourusername/jarvis-assistant/issues)
-* **Discussions:** [GitHub Discussions](https://github.com/yourusername/jarvis-assistant/discussions)
 
 ---
 
@@ -234,11 +207,3 @@ See the [LICENSE](LICENSE) file for full details.
 * Explore practical NLP and AI integration.
 * Demonstrate clean Node.js architecture.
 * Promote privacy-first design principles.
-
----
-
-**Built with ❤️, discipline, and JavaScript.**
-
----
-
-Would you like me to generate a **ROADMAP.md** next (with professional formatting and milestone goals for Phases 5–7)? That would make your repo look like a real development project in progress.
