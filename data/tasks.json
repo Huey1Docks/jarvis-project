@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1761775377298,
+    "description": "clean room",
+    "priority": "high",
+    "dueTime": null,
+    "completed": false,
+    "createdAt": "2025-10-29T22:02:57.298Z"
+  },
+  {
+    "id": 1761775402304,
+    "description": "read book",
+    "priority": "high",
+    "dueTime": null,
+    "completed": false,
+    "createdAt": "2025-10-29T22:03:22.304Z"
+  },
+  {
+    "id": 1761776582045,
+    "description": "remind be to clean my room",
+    "priority": "medium",
+    "dueTime": "7pm",
+    "completed": false,
+    "createdAt": "2025-10-29T22:23:02.045Z"
+  },
+  {
+    "id": 1761776736067,
+    "description": "buy groceries",
+    "priority": "medium",
+    "dueTime": "3pm",
+    "completed": false,
+    "createdAt": "2025-10-29T22:25:36.067Z"
+  },
+  {
+    "id": 1761776784140,
+    "description": "give me the help commands",
+    "priority": "medium",
+    "dueTime": null,
+    "completed": false,
+    "createdAt": "2025-10-29T22:26:24.140Z"
+  }
+]
