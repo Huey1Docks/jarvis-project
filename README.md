@@ -6,7 +6,7 @@ JARVIS understands natural language, manages your tasks, remembers information a
 
 ---
 
-## ✨ Features**
+## ✨ Features
 
 ### 🧠 Natural Language Understanding**
 
