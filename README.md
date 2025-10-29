@@ -1,5 +1,5 @@
 
-# **JARVIS – Your Personal AI Assistant**
+# JARVIS – Your Personal AI Assistant
 
 A local, privacy-focused personal assistant built with **Node.js**.
 JARVIS understands natural language, manages your tasks, remembers information about you, and operates entirely on your machine — free, offline, and fully under your control.
